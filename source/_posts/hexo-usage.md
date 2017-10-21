@@ -1,9 +1,9 @@
 ---
 title: Hexo搭建博客不完全指南
-id: 1
 categories:
-  - 编程
-  - Hexo
+  - program
+  - hexo
+abbrlink: 2
 date: 2017-10-08 18:00:00
 tags:
 ---
@@ -38,7 +38,7 @@ tags:
   * 把第 9 行的`author`改成你的大名
   * 把最后一行的`type`改成`type: git`
   * 在最后一行，与`type`平齐，加上一行`repo: 上面repo的仓库地址`
-  * `type:`和`repo:`后面有个空格，不要眼瞎
+  * 注意！`type:`和`repo:`后面有个空格
 * `npm install hexo-deployer-git --save`，安装 git 部署插件
 * `hexo deploy`
 * 进入「**你的用户名.github.io**」对应的 repo，打开 GitHub Pages 功能，如果已经打开了，就直接点击预览链接

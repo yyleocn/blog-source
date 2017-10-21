@@ -7,14 +7,14 @@ title: 小乐de部落格
 subtitle:
 description:
 author: 小乐
-language: Zh-cn
-timezone:
+language: zh-Hans
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://xiaole.in
 root: /
-permalink: :year/:month/:day/:title/
+permalink: post/:abbrlink/
 permalink_defaults:
 
 # Directory
@@ -72,7 +72,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: Hacker
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
