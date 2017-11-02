@@ -1,8 +1,10 @@
 ---
-title: HTML布局原理
-abbrlink: 3
+title: 学习笔记零碎
+abbrlink: 26985
 date: 2017-10-17 21:13:15
-tags:
+categories:
+  - program
+  - front-end
 ---
 ### 布局思路
 

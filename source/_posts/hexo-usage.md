@@ -3,7 +3,7 @@ title: Hexo搭建博客不完全指南
 categories:
   - program
   - hexo
-abbrlink: 2
+abbrlink: 18368
 date: 2017-10-08 18:00:00
 tags:
 ---

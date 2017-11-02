@@ -1,8 +1,8 @@
 ---
 title: HTML属性梳理
-tags:
+categories:
   - program
   - front-end
-abbrlink: 5
+abbrlink: 3283
 date: 2017-10-17 00:00:00
 ---

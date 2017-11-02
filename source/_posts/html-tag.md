@@ -1,9 +1,9 @@
 ---
 title: HTML元素梳理
-tags:
+categories:
   - program
   - front-end
-abbrlink: 4
+abbrlink: 58576
 date: 2017-10-17 00:00:00
 ---
 # **根元素**
